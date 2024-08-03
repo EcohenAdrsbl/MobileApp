@@ -27,7 +27,7 @@ app.frame('/', (c) => {
   const { buttonValue, inputText, status } = c
   const fruit = inputText || buttonValue
   return c.res({
-    image: "https://i.ibb.co/k88WVwS/Support-Mobile2.png",
+    image: "https://i.ibb.co/pdpmT0N/Support-Mobile2.png",
     intents: [
       <Button.Link href = 'https://www.addressable.io/use-case/mobile-app-promotion?utm_source=Social&utm_medium=Twitter&utm_campaign=Mobileapps'>Read Online!</Button.Link>
     ],
